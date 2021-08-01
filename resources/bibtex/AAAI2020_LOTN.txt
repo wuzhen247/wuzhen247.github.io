@@ -1,0 +1,9 @@
+@inproceedings{wu2020latent,
+  title={Latent opinions transfer network for target-oriented opinion words extraction},
+  author={Wu, Zhen and Zhao, Fei and Dai, Xin-Yu and Huang, Shujian and Chen, Jiajun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={05},
+  pages={9298--9305},
+  year={2020}
+}

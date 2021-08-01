@@ -1,0 +1,6 @@
+@inproceedings{wu2018improving,
+  title={Improving review representations with user attention and product attention for sentiment classification},
+  author={Wu, Zhen and Dai, Xin-Yu and Yin, Cunyan and Huang, Shujian and Chen, Jiajun},
+  booktitle={Thirty-second AAAI conference on artificial intelligence},
+  year={2018}
+}

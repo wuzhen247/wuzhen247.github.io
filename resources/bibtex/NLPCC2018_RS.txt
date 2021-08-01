@@ -1,0 +1,8 @@
+@inproceedings{ning2018improving,
+  title={Improving aspect identification with reviews segmentation},
+  author={Ning, Tianhao and Wu, Zhen and Dai, Xin-Yu and Huang, Jiajun and Huang, Shujian and Chen, Jiajun},
+  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
+  pages={416--428},
+  year={2018},
+  organization={Springer}
+}

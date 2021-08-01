@@ -1,0 +1,8 @@
+@inproceedings{ying2020opinion,
+  title={Opinion transmission network for jointly improving aspect-oriented opinion words extraction and sentiment classification},
+  author={Ying, Chengcan and Wu, Zhen and Dai, Xinyu and Huang, Shujian and Chen, Jiajun},
+  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
+  pages={629--640},
+  year={2020},
+  organization={Springer}
+}

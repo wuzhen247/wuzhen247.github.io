@@ -1,0 +1,8 @@
+@inproceedings{wu2020transformer,
+  title={Transformer-Based Multi-aspect Modeling for Multi-aspect Multi-sentiment Analysis},
+  author={Wu, Zhen and Ying, Chengcan and Dai, Xinyu and Huang, Shujian and Chen, Jiajun},
+  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
+  pages={546--557},
+  year={2020},
+  organization={Springer}
+}

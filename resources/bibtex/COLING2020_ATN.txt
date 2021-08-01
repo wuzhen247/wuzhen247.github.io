@@ -1,0 +1,14 @@
+@inproceedings{zhao-etal-2020-attention,
+    title = "Attention Transfer Network for Aspect-level Sentiment Classification",
+    author = "Zhao, Fei  and
+      Wu, Zhen  and
+      Dai, Xinyu",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2020.coling-main.70",
+    doi = "10.18653/v1/2020.coling-main.70",
+    pages = "811--821",
+}
